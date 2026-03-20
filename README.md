@@ -7,6 +7,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-a3e635?style=flat)
 
+<img width="1888" height="1004" alt="image" src="https://github.com/user-attachments/assets/089830ea-5f45-47bc-9c8c-4ae2687b8648" />
+
 ---
 
 ## What is UltraLearn?
