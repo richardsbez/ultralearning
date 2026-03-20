@@ -11,7 +11,9 @@
 
 ## What is UltraLearn?
 
-UltraLearn is a desktop application that helps you deliberately track your learning across the 9 principles of ultralearning — **Metalearning, Focus, Direct Practice, Drilling, Retrieval, Feedback, Retention, Intuition, and Experimentation**. Each subject you study gets its own space with checklists, progress bars, a visual roadmap canvas, a resource library, and free notes.
+UltraLearn is a desktop application that helps you deliberately track your learning across the 9 principles of ultralearning — Metalearning, Focus, Direct Practice, Drilling, Retrieval, Feedback, Retention, Intuition, and Experimentation. Each subject you study gets its own space with checklists, progress bars, a visual roadmap canvas, a resource library, and free notes.
+
+The app is inspired by the book Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Hardcover, Illustrated, August 6, 2019), written by Scott H. Young with a foreword by James Clear.
 
 Everything is saved as plain Markdown files (`.ul.md`) in a folder of your choice — readable in any text editor or Obsidian.
 
